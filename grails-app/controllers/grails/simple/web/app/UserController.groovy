@@ -2,7 +2,7 @@ package grails.simple.web.app
 
 class UserController {
 
-    def index() { }
+    def start() { }
 
     def save() {
         def user = new User(params)

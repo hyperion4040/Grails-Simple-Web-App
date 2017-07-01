@@ -2,7 +2,7 @@ package grails.simple.web.app
 
 class UrlMappings {
 
-    
+
 
     static mappings = {
         "/$controller/$action?/$id?(.$format)?"{
